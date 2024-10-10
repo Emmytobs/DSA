@@ -35,4 +35,4 @@ function maxSubArray(nums: number[]): number {
       maxSubArraySum = Math.max(maxSubArraySum, maxSumOfSubArrayEndingAtIndex[i])
   }
   return maxSubArraySum;
-};
+};  
