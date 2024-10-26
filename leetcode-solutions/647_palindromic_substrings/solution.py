@@ -12,6 +12,9 @@ class Solution:
         return output
     
     def count_palindromes(self, s, l, r):
+        """
+            Uses two-pointer technique, expanding from the center
+        """
         no_of_palindromes = 0
         while l >= 0 and r < len(s) and s[l] == s[r]:
             no_of_palindromes += 1
