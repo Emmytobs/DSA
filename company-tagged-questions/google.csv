@@ -1,4 +1,4 @@
-questionFrontendId,title,difficulty,free/premium,frequency,topicTags
+id,title,difficulty,free/premium,frequency,tags
 1,Two Sum,EASY,free,100.0,"Array, Hash Table"
 88,Merge Sorted Array,EASY,free,87.6,"Array, Two Pointers, Sorting"
 1526,Minimum Number of Increments on Subarrays to Form a Target Array,HARD,free,85.7,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
