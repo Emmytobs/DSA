@@ -1,0 +1,13 @@
+id,title,difficulty,free/premium,frequency,tags
+2325,Decode the Message,EASY,free,100.0,"Hash Table, String"
+281,Zigzag Iterator,MEDIUM,premium,92.8,"Array, Design, Queue, Iterator"
+2043,Simple Bank System,MEDIUM,free,92.8,"Array, Hash Table, Design, Simulation"
+588,Design In-Memory File System,HARD,premium,89.8,"Hash Table, String, Design, Trie, Sorting"
+68,Text Justification,HARD,free,77.2,"Array, String, Simulation"
+981,Time Based Key-Value Store,MEDIUM,free,77.2,"Hash Table, String, Binary Search, Design"
+1166,Design File System,MEDIUM,premium,77.2,"Hash Table, String, Design, Trie"
+1801,Number of Orders in the Backlog,MEDIUM,free,70.7,"Array, Heap (Priority Queue), Simulation"
+2369,Check if There is a Valid Partition For The Array,MEDIUM,free,70.7,"Array, Dynamic Programming"
+71,Simplify Path,MEDIUM,free,61.6,"String, Stack"
+399,Evaluate Division,MEDIUM,free,61.6,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+3043,Find the Length of the Longest Common Prefix,MEDIUM,free,61.6,"Array, Hash Table, String, Trie"

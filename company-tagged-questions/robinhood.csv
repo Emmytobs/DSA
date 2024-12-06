@@ -1,0 +1,13 @@
+id,title,difficulty,free/premium,frequency,tags
+1801,Number of Orders in the Backlog,MEDIUM,free,100.0,"Array, Heap (Priority Queue), Simulation"
+1743,Restore the Array From Adjacent Pairs,MEDIUM,free,90.5,"Array, Hash Table, Depth-First Search"
+1391,Check if There is a Valid Path in a Grid,MEDIUM,free,86.7,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+1393,Capital Gain/Loss,MEDIUM,free,86.7,Database
+1684,Count the Number of Consistent Strings,EASY,free,86.7,"Array, Hash Table, String, Bit Manipulation, Counting"
+1711,Count Good Meals,MEDIUM,free,86.7,"Array, Hash Table"
+1712,Ways to Split Array Into Three Subarrays,MEDIUM,free,86.7,"Array, Two Pointers, Binary Search, Prefix Sum"
+2021,Brightest Position on Street,MEDIUM,premium,86.7,"Array, Prefix Sum, Ordered Set"
+121,Best Time to Buy and Sell Stock,EASY,free,67.7,"Array, Dynamic Programming"
+68,Text Justification,HARD,free,61.7,"Array, String, Simulation"
+48,Rotate Image,MEDIUM,free,53.3,"Array, Math, Matrix"
+210,Course Schedule II,MEDIUM,free,53.3,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

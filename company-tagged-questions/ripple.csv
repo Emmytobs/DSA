@@ -1,0 +1,11 @@
+id,title,difficulty,free/premium,frequency,tags
+49,Group Anagrams,MEDIUM,free,100,"Array, Hash Table, String, Sorting"
+53,Maximum Subarray,MEDIUM,free,100,"Array, Divide and Conquer, Dynamic Programming"
+142,Linked List Cycle II,MEDIUM,free,100,"Hash Table, Linked List, Two Pointers"
+146,LRU Cache,MEDIUM,free,100,"Hash Table, Linked List, Design, Doubly-Linked List"
+238,Product of Array Except Self,MEDIUM,free,100,"Array, Prefix Sum"
+443,String Compression,MEDIUM,free,100,"Two Pointers, String"
+480,Sliding Window Median,HARD,free,100,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+560,Subarray Sum Equals K,MEDIUM,free,100,"Array, Hash Table, Prefix Sum"
+1068,Product Sales Analysis I,EASY,free,100,Database
+2034,Stock Price Fluctuation ,MEDIUM,free,100,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"

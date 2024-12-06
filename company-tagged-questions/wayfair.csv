@@ -1,0 +1,25 @@
+id,title,difficulty,free/premium,frequency,tags
+152,Maximum Product Subarray,MEDIUM,free,100.0,"Array, Dynamic Programming"
+415,Add Strings,EASY,free,94.3,"Math, String, Simulation"
+2139,Minimum Moves to Reach Target Score,MEDIUM,free,94.3,"Math, Greedy"
+1895,Largest Magic Square,MEDIUM,free,94.3,"Array, Matrix, Prefix Sum"
+1212,Team Scores in Football Tournament,MEDIUM,premium,94.3,Database
+1014,Best Sightseeing Pair,MEDIUM,free,92.0,"Array, Dynamic Programming"
+1244,Design A Leaderboard,MEDIUM,premium,92.0,"Hash Table, Design, Sorting"
+1189,Maximum Number of Balloons,EASY,free,92.0,"Hash Table, String, Counting"
+1957,Delete Characters to Make Fancy String,EASY,free,92.0,String
+1405,Longest Happy String,MEDIUM,free,92.0,"String, Greedy, Heap (Priority Queue)"
+1194,Tournament Winners,HARD,premium,92.0,Database
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,MEDIUM,free,92.0,"Array, Hash Table, String, Sorting"
+2950,Number of Divisible Substrings,MEDIUM,premium,79.9,"Hash Table, String, Counting, Prefix Sum"
+5,Longest Palindromic Substring,MEDIUM,free,75.6,"Two Pointers, String, Dynamic Programming"
+49,Group Anagrams,MEDIUM,free,63.5,"Array, Hash Table, String, Sorting"
+125,Valid Palindrome,EASY,free,54.0,"Two Pointers, String"
+151,Reverse Words in a String,MEDIUM,free,54.0,"Two Pointers, String"
+236,Lowest Common Ancestor of a Binary Tree,MEDIUM,free,54.0,"Tree, Depth-First Search, Binary Tree"
+300,Longest Increasing Subsequence,MEDIUM,free,54.0,"Array, Binary Search, Dynamic Programming"
+647,Palindromic Substrings,MEDIUM,free,54.0,"Two Pointers, String, Dynamic Programming"
+780,Reaching Points,HARD,free,54.0,Math
+844,Backspace String Compare,EASY,free,54.0,"Two Pointers, String, Stack, Simulation"
+1204,Last Person to Fit in the Bus,MEDIUM,free,54.0,Database
+1456,Maximum Number of Vowels in a Substring of Given Length,MEDIUM,free,54.0,"String, Sliding Window"

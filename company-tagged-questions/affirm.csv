@@ -1,0 +1,11 @@
+id,title,difficulty,free/premium,frequency,tags
+380,Insert Delete GetRandom O(1),MEDIUM,free,100.0,"Array, Hash Table, Math, Design, Randomized"
+736,Parse Lisp Expression,HARD,free,81.9,"Hash Table, String, Stack, Recursion"
+49,Group Anagrams,MEDIUM,free,79.9,"Array, Hash Table, String, Sorting"
+362,Design Hit Counter,MEDIUM,premium,75.1,"Array, Binary Search, Design, Queue, Data Stream"
+381,Insert Delete GetRandom O(1) - Duplicates allowed,HARD,free,68.7,"Array, Hash Table, Math, Design, Randomized"
+443,String Compression,MEDIUM,free,68.7,"Two Pointers, String"
+242,Valid Anagram,EASY,free,64.5,"Hash Table, String, Sorting"
+3076,Shortest Uncommon Substring in an Array,MEDIUM,free,64.5,"Array, Hash Table, String, Trie"
+322,Coin Change,MEDIUM,free,59.1,"Array, Dynamic Programming, Breadth-First Search"
+3163,String Compression III,MEDIUM,free,51.4,String

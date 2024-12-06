@@ -1,0 +1,5 @@
+id,title,difficulty,free/premium,frequency,tags
+2483,Minimum Penalty for a Shop,MEDIUM,free,100.0,"String, Prefix Sum"
+399,Evaluate Division,MEDIUM,free,66.4,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+465,Optimal Account Balancing,HARD,premium,50.2,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+1087,Brace Expansion,MEDIUM,premium,43.5,"String, Backtracking, Breadth-First Search"
